@@ -25,13 +25,12 @@ public class ExamVariousArray {
 				case 4:
 					new AptPersonCount().AptCount();
 					break;
-					/**
 				case 5:
+					new OnlyNumber().OnlyNum();
 					break;
 				case 6:
 					check="end";
 					break;
-				 **/
 				default:
 					System.out.print("잘못 입력하셨습니다.\n");
 					continue;
