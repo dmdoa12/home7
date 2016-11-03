@@ -16,13 +16,13 @@ public class ExamVariousArray {
 				case 1:
 					new SecondMax().FindMax();
 					break;
-				/**
 				case 2:
-					new TriangleStars().triangle();
+					new AvgScore().checkScore();
 					break;
 				case 3:
-					new IsoscelesTriangleStars().pyramid();
+					new StudentScore().CalcGrade();
 					break;
+				/**
 				case 4:
 					new DiamondStars().diamond();
 					break;
