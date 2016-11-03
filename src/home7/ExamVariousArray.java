@@ -22,10 +22,10 @@ public class ExamVariousArray {
 				case 3:
 					new StudentScore().CalcGrade();
 					break;
-				/**
 				case 4:
-					new DiamondStars().diamond();
+					new AptPersonCount().AptCount();
 					break;
+					/**
 				case 5:
 					break;
 				case 6:
